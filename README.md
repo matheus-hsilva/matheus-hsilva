@@ -1,6 +1,6 @@
 ## Matheus Silva
 
-**``Desenvolvedor Fullstack**
+**`Desenvolvedor Fullstack`**
 
 Olá! Me chamo Matheus Henrique da Silva, tenho 17 anos e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC. Tenho grande interesse na área de desenvolvimento de software, especialmente no desenvolvimento fullstack e em bancos de dados. Estou sempre em busca de novos conhecimentos, estudando e praticando para me tornar um profissional cada vez mais completo. Acredito que a tecnologia tem o poder de transformar realidades, e quero fazer parte dessa transformação por meio de projetos que gerem impacto e aprendizado contínuo.
 
