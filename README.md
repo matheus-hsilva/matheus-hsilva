@@ -17,20 +17,20 @@
 <br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 700px; margin: auto;">
-  <img height="150" style="flex: 1 1 300px; max-width: 100%; border: 2px solid #FFFFFF; border-radius: 8px;"  
+  <img height="150" style="max-width: 50%; border: 2px solid #FFFFFF; border-radius: 8px;"  
        src="https://github-readme-stats.vercel.app/api/?username=matheus-hsilva&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&locale=pt-BR" />
-  <img height="150" style="flex: 1 1 300px; max-width: 100%; border: 2px solid #FFFFFF; border-radius: 8px;"  
+       
+  <img height="150" style="max-width: 50%; border: 2px solid #FFFFFF; border-radius: 8px;"  
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hsilva&layout=compact&langs_count=10&theme=midnight-purple&locale=pt-BR" />
 </div>
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 700px; margin: auto;">
-  <img height="150" style="flex: 1 1 300px; max-width: 100%; border: 2px solid #FFFFFF; border-radius: 8px;"  
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheus-hsilva&theme=midnight_purple" />
-  <img height="150" style="flex: 1 1 300px; max-width: 100%; border: 2px solid #FFFFFF; border-radius: 8px;"  
+<div align="center">
+  <img height="150" style="border: 2px solid #FFFFFF; border-radius: 8px;"  
        src="https://github-readme-streak-stats.herokuapp.com?user=matheus-hsilva&theme=midnight-purple&locale=pt-BR" />
 </div>
+
 
 <br>
 
