@@ -2,9 +2,9 @@
 
 <div align="center">
   <samp>
-      <br>
+      <b>
         Olá, eu sou Matheus Henrique da Silva
-      <br>
+      <b>
   </samp>
 </div>
       
@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 40px;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=matheus-hsilva&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&locale=pt-BR&hide_border=false&include_all_commits=true&custom_title=Estatísticas+do+GitHub" 
       style="width: 50%; border-radius: 8px;" 
@@ -26,21 +26,24 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hsilva&layout=compact&langs_count=10&theme=midnight-purple&locale=pt-BR&hide_border=false&custom_title=Linguagens+Mais+Usadas" 
       style="width: 50%; border-radius: 8px;" 
     />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=matheus-hsilva&theme=midnight-purple&locale=pt-BR&hide_border=false" 
+      style="width: 50%; border-radius: 8px;" 
+    />
   </div>
 </div>
-
-
-<br>
-
-<div align="center">
-  <img height="150" style="border: 2px solid #FFFFFF; border-radius: 8px;"  
-       src="https://github-readme-streak-stats.herokuapp.com?user=matheus-hsilva&theme=midnight-purple&locale=pt-BR" />
-</div>
-
 
 <br>
 
 <div align="center" style="text-align: center; margin-top: 40px;">
+   <samp>
+    <b>
+      Ferramentas e Tecnologias:
+    </b>
+  </samp>
+  <br>
+  <br>
+  
   <img
     alt="HTML"
     title="HTML"
@@ -80,12 +83,10 @@
 
 <br>
 
-##
-
 <div align="center">
   <samp>
     <b>
-      Contato:
+      Redes de Contato:
     </b>
   </samp>
   <br>
@@ -96,6 +97,6 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-henrique-da-silva-57a925360)
 </div>
 
-##
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer"/>
