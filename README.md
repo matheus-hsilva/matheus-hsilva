@@ -16,13 +16,19 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 700px; margin: auto;">
-  <img height="150" style="max-width: 50%; border: 2px solid #FFFFFF; border-radius: 8px;"  
-       src="https://github-readme-stats.vercel.app/api/?username=matheus-hsilva&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&locale=pt-BR" />
-       
-  <img height="150" style="max-width: 50%; border: 2px solid #FFFFFF; border-radius: 8px;"  
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hsilva&layout=compact&langs_count=10&theme=midnight-purple&locale=pt-BR" />
+<div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=matheus-hsilva&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&locale=pt-BR&hide_border=false&include_all_commits=true&custom_title=Estatísticas+do+GitHub" 
+      style="width: 50%; border-radius: 8px;" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hsilva&layout=compact&langs_count=10&theme=midnight-purple&locale=pt-BR&hide_border=false&custom_title=Linguagens+Mais+Usadas" 
+      style="width: 50%; border-radius: 8px;" 
+    />
+  </div>
 </div>
+
 
 <br>
 
