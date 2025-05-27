@@ -23,7 +23,7 @@
       style="width: 50%; border-radius: 8px;" 
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hsilva&layout=compact&langs_count=10&theme=midnight-purple&locale=pt-BR&hide_border=false&custom_title=Linguagens+Mais+Usadas" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hsilva&layout=compact&langs_count=3&theme=midnight-purple&locale=pt-BR&hide_border=false&custom_title=Linguagens+Mais+Usadas" 
       style="width: 50%; border-radius: 8px;" 
     />
     <img 
