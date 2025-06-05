@@ -2,13 +2,9 @@
 
 <div align="center">
   <samp>
-      <b>
         Olá, eu sou Matheus Henrique da Silva
-      </b>
   </samp>
 </div>
-      
-<br>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8a2be2&size=22&center=true&width=650&lines=Estudante+de+ADS+na+FATEC;Apaixonado+por+Tecnologia;Sempre+em+Evolu%C3%A7%C3%A3o" alt="Typing SVG" style="margin-top: 0; margin-bottom: 15px;" />
@@ -33,13 +29,9 @@
   </div>
 </div>
 
-<br>
-
 <div align="center" style="text-align: center; margin-top: 40px;">
    <samp>
-    <b>
       Ferramentas e Tecnologias:
-    </b>
   </samp>
   <br>
   <br>
@@ -81,13 +73,9 @@
   />
 </div>
 
-<br>
-
 <div align="center">
   <samp>
-    <b>
       Redes de Contato:
-    </b>
   </samp>
   <br>
   <br>
