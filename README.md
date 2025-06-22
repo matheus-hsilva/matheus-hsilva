@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8a2be2"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8a2be2&size=22&center=true&width=650&lines=Estudante+de+ADS+na+FATEC;Apaixonado+por+Tecnologia;Sempre+em+Evolu%C3%A7%C3%A3o" alt="Typing SVG" style="margin-top: 0; margin-bottom: 15px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8a2be2&size=22&center=true&width=650&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estudante+da+Fatec+de+Presidente+Prudente" alt="Typing SVG" style="margin-top: 0; margin-bottom: 15px;" />
 </div>
 
 <div align="center"> 
