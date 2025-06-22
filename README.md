@@ -30,9 +30,9 @@
 
 <div align="center">
   
-  [![Gmail](https://img.shields.io/badge/Gmail-8a2be2?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:m4751376@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-8a2be2?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mhdsilvaa@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-8a2be2?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/mastheus.h)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-henrique-da-silva-57a925360)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-hensilva)
   
 </div>
 
