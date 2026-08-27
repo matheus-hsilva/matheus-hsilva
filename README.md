@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8a2be2&size=22&center=true&width=650&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estudante+da+Fatec+de+Presidente+Prudente" alt="Typing SVG" style="margin-top: 0; margin-bottom: 15px;" />
 </div>
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-hsilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=matheus-hsilva&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-hsilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=midnight-purple&hide_border=true" height="150" alt="languages graph" /> 
-</div> 
 
 ### 
 
